@@ -45,6 +45,7 @@ With this project I hope to establish the groundwork for the development of a tr
 <p align="center">
  References 
   </p>
+  
 [1] G. Pfurtscheller, C. Neuper, D. Flotzinger, and M. Pregenzer, "EEGbased discrimination between imagination of right and left hand movement," Electroencephalography and Clinical Neurophysiology, vol. 103, pp. 642-651, 1997. 
 
 [2] A. L. Goldberger, L. A. N. Amaral, L. Glass, J. M. Hausdorff, P. C. Ivanov, R. G. Mark, J. E. Mietus, G. B. Moody, C.-K. Peng, and H. E. Stanley, "PhysioBank, PhysioToolkit, and PhysioNet: Components of a New Research Resource for Complex Physiologic Signals," Circulation, vol. 101, pp. e215-e220, June 13, 2000 2000. 

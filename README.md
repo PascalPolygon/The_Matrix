@@ -15,3 +15,7 @@
   </p>
   
 [1] Aznan, Nik Khadijah Nik, et al. “On the Classification of SSVEP-Based Dry-EEG Signals via Convolutional Neural Networks.” 2018 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2018, doi:10.1109/smc.2018.00631. 
+
+ -----
+ # Results
+![](results/confusion_mtx.png)

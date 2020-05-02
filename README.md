@@ -19,3 +19,12 @@
  -----
  # Results
 ![](results/confusion_mtx.png)
+ -----
+ # Single channel raw EEG
+![](results/single_channel.png)
+ -----
+ # Virtual navigation
+The predictions on the EEG signals are used to move a ball in a virtual environment.
+In theory, subjects whose signals were used to train the model could put on an EEG headset and control the ball 
+in real time with their raw brain brain activity without any preprocessing required.
+![](results/virtual_nav.png)
